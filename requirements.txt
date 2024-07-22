@@ -1,0 +1,9 @@
+langchain
+langchain-community
+bs4
+chromadb
+pypdf
+pytest
+boto3
+langchain-openai
+dotenv
